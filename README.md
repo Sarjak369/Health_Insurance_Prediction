@@ -1,4 +1,4 @@
-## Health_Insurance_Predtiction
+## Health_Insurance_Prediction
 
 Objective: Predict medical insurance costs based on the characteristics of the policyholders.
 
@@ -6,7 +6,7 @@ Models for accurately predicting individual health care expenses would be very b
 
 The objective of this project is to accurately predict insurance costs based on the characteristics of the policyholders. In addition, we will determine the most important variable in influencing insurance costs. These estimates can be used by health insurers to set the price of yearly premiums higher or lower depending on the expected treatment costs.
 
-The following steps are performed using machine learning and Python.
+The following steps are performed using machine learning and Python:
 
 - Import the required software libraries.
 
