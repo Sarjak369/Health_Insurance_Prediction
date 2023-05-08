@@ -8,22 +8,22 @@ The objective of this project is to accurately predict insurance costs based on 
 
 The following steps are performed using machine learning and Python.
 
-Import the required software libraries.
+- Import the required software libraries.
 
-Load and Import the dataset.
+- Load and Import the dataset.
 
-Data Analysis and Exploration.
+- Data Analysis and Exploration.
 
-Feature Selection.
+- Feature Selection.
 
-Split data into training and test data sets.
+- Split data into training and test data sets.
 
-Normalize the Data.
+- Normalize the Data.
 
-Train the model on the training data.
+- Train the model on the training data.
 
-Make predictions on the test data.
+- Make predictions on the test data.
 
-Evaluate the model’s performance.
+- Evaluate the model’s performance.
 
-Draw conclusions from evaluations.
+- Draw conclusions from evaluations.
